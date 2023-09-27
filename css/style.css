@@ -1,0 +1,67 @@
+#section1{
+    color: rgb(76, 59, 38);
+    font-size: 48px;
+    text-align: center;
+    background-color: rgb(197, 210, 189);
+    
+}
+.name{
+    color: rgb(76, 59, 38);
+    text-align: center;
+    font-size: 40px;
+
+}
+.section2{
+    color: #e2dfdf;
+    text-align: center;
+    font-size: 28px;
+}
+.section3{
+    color: #193824;
+    font-size: 24px;
+}
+.section4{
+    color: #721121;
+    text-align: center;
+}
+a{
+    color: rgb(243, 235, 216);
+    text-decoration: none;
+    font-size: 30px;
+}
+.flex-layout{
+    display: flex;
+}
+.flex-layout div{
+    background-color: rgb(132, 147, 118);
+    margin: 1px;
+    text-align: center;
+    height: 50px;
+}
+.box{
+    color: rgb(243, 235, 216);
+    background-color: rgb(146, 133, 116);
+    border-radius: 5px;
+    padding: 3px;
+    width: 500px;
+    height: 500px;
+}
+.edu{
+    color:rgb(76, 59, 38);
+    text-align: center;
+    font-size: 28px;
+}
+.lgradient{
+    background: linear-gradient(to right,rgb(243, 235, 216),rgb(132, 147, 118),rgb(146, 133, 116));
+}    
+.twocolumns{
+    column-count: 2;
+    column-rule: 2px solid rgba(243, 235, 216);
+    text-align: center;
+}
+.border{
+    border-style: dashed;
+    border-color: rgb(243, 235, 216);
+    color:rgb(76, 59, 38);
+    background: linear-gradient(to right,rgb(243, 235, 216),rgb(197, 210, 189),rgb(132, 147, 118));
+}
