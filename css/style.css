@@ -11,6 +11,11 @@
     font-size: 40px;
 
 }
+.name1{
+    color: #193824;
+    text-align: center;
+    font-size: 24px;
+}
 .section2{
     color: #e2dfdf;
     text-align: center;
@@ -23,6 +28,11 @@
 .section4{
     color: #721121;
     text-align: center;
+}
+.section5{
+    color: #e2dfdf;
+    text-align: center;
+    font-size: 24px;
 }
 a{
     color: rgb(243, 235, 216);
@@ -53,7 +63,10 @@ a{
 }
 .lgradient{
     background: linear-gradient(to right,rgb(243, 235, 216),rgb(132, 147, 118),rgb(146, 133, 116));
-}    
+}
+.lgradient1{
+    background: linear-gradient(to left,rgb(132, 147, 118),rgba(241, 241, 241),rgba(241, 241, 241));
+}     
 .twocolumns{
     column-count: 2;
     column-rule: 2px solid rgba(243, 235, 216);
